@@ -6,11 +6,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 import java.util.function.Consumer;
 
-// HW -->
-//  1. Server -->(READ) --> Client  (Time will take)
-// 2. In threadpool method make size 100 and use initial is 10  --> Read about JMETER
-// 3. ThreadPool vs EventLoop blog
-// 4. Executor Service and Completable Future (READ ABOUT IN CS FUNDAMENTAL)
+
 
 public class Server {
 
